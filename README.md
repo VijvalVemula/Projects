@@ -12,10 +12,6 @@ To run the code, you will need to install the following Python libraries:
 * seaborn
 * sklearn
 
-Once you have installed the libraries, you can run the code by executing the following command in a terminal:
-
-```python
-python weather_prediction.py
 
 
 ## Results
